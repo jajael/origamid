@@ -1,0 +1,47 @@
+body {
+  margin: 100px;
+  font-family: Arial;
+  color: #111;
+}
+
+/* h1, */
+h2 {
+  margin: 0;
+}
+
+h1 {
+  /* color: inherit; */
+  text-align: center;
+  height: 60px;
+}
+
+/* h2 {
+  color: white;
+  display: inline-block; 
+} */
+
+p {
+  color: #b2b2b2;
+}
+
+span {
+  color: #febe01;
+}
+
+.produto {
+  color: #fff;
+  background: #111;
+  border-radius: 4px;
+  padding: 40px;
+  margin: 20px;
+}
+
+a {
+  display: inline-block;
+  background: #febe01;
+  color: #332200;
+  text-decoration: none;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 16px;
+}
